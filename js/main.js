@@ -1,4 +1,3 @@
-
 var camera, scene, renderer;
 
 var objects;
